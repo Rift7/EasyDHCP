@@ -37,6 +37,14 @@ Setting up a DHCP server can be a daunting task, but EasyDHCP is here to change 
 ```
 5. Follow the interactive prompts to set up your DHCP server with a smile! 😃
 
+## 📅 TODO:
+
+
+- ✅ ~~Calculate IP subnet address and CIDR.~~
+- 🔳 Set default IP ranges to choose from.
+- 🔳 Add function to make reservations.
+- 🔳 Add function to reconfigure prevoius setup.
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Rift7/EasyDHCP/blob/main/LICENSE) file for details.
